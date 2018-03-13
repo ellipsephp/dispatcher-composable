@@ -1,0 +1,36 @@
+{
+    "name": "ellipse/dispatcher-composable",
+    "type": "library",
+    "description": "Composable ellipse dispatcher factory",
+    "keywords": [
+        "Psr-15",
+        "middleware",
+        "request-handler",
+        "dispatcher"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/ellipsephp/dispatcher-composable",
+    "support": {
+        "issues": "https://github.com/ellipsephp/dispatcher-composable/issues",
+        "source": "https://github.com/ellipsephp/dispatcher-composable"
+    },
+    "authors": [
+        {
+            "name": "Pierre Mallinjoud",
+            "email": "pierre.mallinjoud@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "ellipse/dispatcher": "^1.5"
+    },
+    "require-dev": {
+        "kahlan/kahlan": "^4.0",
+        "eloquent/phony-kahlan": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ellipse\\Dispatcher\\": "src"
+        }
+    }
+}

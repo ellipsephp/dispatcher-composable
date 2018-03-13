@@ -1,7 +1,7 @@
 {
     "name": "ellipse/dispatcher-composable",
     "type": "library",
-    "description": "Composable ellipse dispatcher factory",
+    "description": "Composable dispatcher factory",
     "keywords": [
         "Psr-15",
         "middleware",

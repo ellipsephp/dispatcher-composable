@@ -8,7 +8,7 @@ This package provides a composable factory decorator for objects implementing `E
 
 **Run tests** `./vendor/bin/kahlan`
 
-- [Composing a dispatcher](https://github.com/ellipsephp/dispatcher-callable#composing-a-dispatcher)
+- [Composing a dispatcher](#composing-a-dispatcher)
 
 ## Composing a dispatcher
 

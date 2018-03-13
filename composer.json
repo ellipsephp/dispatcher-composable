@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "ellipse/dispatcher": "^1.5"
+        "ellipse/dispatcher": "^1.6"
     },
     "require-dev": {
         "kahlan/kahlan": "^4.0",
